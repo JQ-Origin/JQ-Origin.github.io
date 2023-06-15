@@ -1,0 +1,10 @@
+#div01{
+    overflow-x: hidden;
+    outline-color: aliceblue;
+    outline-width: 1px;
+    outline-style: solid;
+    display: inline-block;
+    text-align: none;
+    width: 300px;
+    height: 200px;
+}
